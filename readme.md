@@ -1,4 +1,4 @@
-<a style="font-size:24pt" href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
+<a style="font-size:32pt" href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
 <hr>
 
 # Description 
