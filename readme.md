@@ -1,4 +1,4 @@
-#<a href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
+<a style="font-size:24pt" href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
 <hr>
 
 # Description 
@@ -30,4 +30,5 @@ website: *www.keyc0de.net*
 My parents.</br>
 My early schooling.</br>
 My university professors, especially Mr. Dimopoulos Hercules, Mr. Panagiotis Papageorgas, Mr. Georgios Bokas & many others.</br> 
-You for reading this.
+You for reading this.</br>
+Hopefully it will prove useful.
