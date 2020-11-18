@@ -13,14 +13,6 @@ MathHandbook
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
-	
-
-If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:
-
-    MathHandbook  Copyright (C) 2014  Nikos Lazaridis (KeyC0de)
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
-    under certain conditions; type `show c' for details.
 
 
 https://www.gnu.org/copyleft/gpl.html
