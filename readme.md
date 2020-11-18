@@ -1,5 +1,5 @@
-##<a href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
-
+#<a href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
+<hr>
 
 # Description 
 
