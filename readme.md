@@ -7,7 +7,7 @@ A handbook for logic, set theory, algebra, geometry, video game math concepts, g
 
 I compiled this several years ago and it's been left dormant among the circuits of my computer..
 
-<<<<<<< HEAD
+
 I used Windows 8.1 x86_64, LATEX and TexMaker.
 
 I provide the source files, which you can open yourself with your own copy of TexMaker.</br>
@@ -26,11 +26,6 @@ website: *www.keyc0de.net*
 
 
 # Acknowledgements
-=======
-English & some Greek.
-
-Στα Αγγλικά & έχει λίγα Ελληνικά.
->>>>>>> origin/master
 
 My parents.</br>
 My early schooling.</br>
