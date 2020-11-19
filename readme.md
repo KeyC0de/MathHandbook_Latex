@@ -1,6 +1,6 @@
-<font size="+2">
-<a href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
-</font>
+<h1 align="center">
+	<a href="https://github.com/KeyC0de/MathHandbook_Latex">Math Handbook Latex</a>
+</h1>
 <hr>
 
 # Description 
