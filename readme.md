@@ -16,6 +16,11 @@ I provide the source files, which you can open yourself with your own copy of Te
 The built pdf file is called "Math Handbook.pdf".
 
 
+# Contribute
+
+Please submit any bugs you find through GitHub repository 'Issues' page with details describing how to replicate the problem. If you liked it or you learned something new give it a star, clone it, contribute to it whatever. Enjoy.
+
+
 # License
 
 Distributed under the GNU GPL V3 License. See "GNU GPL license.txt" for more information.
