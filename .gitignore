@@ -24,3 +24,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # exclude specific files
+readme.html
+readme.site.md
