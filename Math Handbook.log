@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100) (preloaded format=pdflatex 2016.12.3)  4 MAR 2021 01:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100) (preloaded format=pdflatex 2016.12.3)  17 SEP 2021 13:41
 entering extended mode
 **"./Math Handbook.tex"
 ("Math Handbook.tex"
@@ -1859,353 +1859,162 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 693.
  [26] [27] [28] [29] [30] [31] [32] [33] [34]
-
-! LaTeX Error: File `graphG' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.940 	\includegraphics[scale=2]{graphG}
-                                        
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `graphG_' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.954 	\includegraphics[scale=1]{graphG_}
-                                         
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `adjacencyMatricGraphG' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.971 ...egraphics[scale=1]{adjacencyMatricGraphG}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[35]
-
-! LaTeX Error: File `graphC' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.980 	\includegraphics[scale=1]{graphC}
-                                        
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `graphGtree' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.991 	\includegraphics[scale=1]{graphGtree}
-                                            
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[36] [37] [38] [39]
-
-! LaTeX Error: File `exponentialNumberAreaCurve' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1078 ...s[scale=0.4]{exponentialNumberAreaCurve}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[40] [41] [42] [43]
-
-! LaTeX Error: File `finiteDiscontinuity' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1206 ...degraphics[scale=2]{finiteDiscontinuity}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `fourierSeriesTable' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1218 ...graphics[scale=0.55]{fourierSeriesTable}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[44] [45]
-
-! LaTeX Error: File `pithanotita1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1251 	\includegraphics[scale=2]{pithanotita1}
-                                               
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
-
-! LaTeX Error: File `sizigiArmonika' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1597 	\includegraphics[scale=2]{sizigiArmonika}
-                                                 
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `trigono' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1618 	\includegraphics[scale=2]{trigono}
-                                          
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[60]
-
-! LaTeX Error: File `orthTrigono' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1639 	\includegraphics[scale=2]{orthTrigono}
-                                              
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `kirtoTetrapleuro' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1659 ...cludegraphics[scale=2]{kirtoTetrapleuro}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `plagioParal' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1676 	\includegraphics[scale=2]{plagioParal}
-                                              
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[61]
-
-! LaTeX Error: File `romvos' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1687 	\includegraphics[scale=2]{romvos}
-                                         
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `trapezio' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1699 	\includegraphics[scale=2]{trapezio}
-                                           
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `poligono' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1711 	\includegraphics[scale=2]{poligono}
-                                           
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[62]
-
-! LaTeX Error: File `tetrahedron' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1741 	\includegraphics[scale=2]{tetrahedron}
-                                              
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `orthParallilepipedo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1752 ...degraphics[scale=2]{orthParallilepipedo}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `pyramid' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1764 	\includegraphics[scale=2]{pyramid}
-                                          
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `cone' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1781 	\includegraphics[scale=2]{cone}
-                                       
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[63]
-
-! LaTeX Error: File `cylinder' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1793 	\includegraphics[scale=2]{cylinder}
-                                           
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `coneFrustum' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1816 	\includegraphics[scale=3]{coneFrustum}
-                                              
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[64] [65]
-
-! LaTeX Error: File `toxo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1879 	\includegraphics[scale=2]{toxo}
-                                       
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[66] [67] [68] [69]
+<graphG.jpg, id=423, 110.5731pt x 122.6181pt>
+File: graphG.jpg Graphic file (type jpg)
+ <use graphG.jpg>
+Package pdftex.def Info: graphG.jpg used on input line 940.
+(pdftex.def)             Requested size: 221.14563pt x 245.23557pt.
+
+<graphG_.jpg, id=424, 228.1323pt x 205.0059pt>
+File: graphG_.jpg Graphic file (type jpg)
+ <use graphG_.jpg>
+Package pdftex.def Info: graphG_.jpg used on input line 954.
+(pdftex.def)             Requested size: 228.13173pt x 205.00539pt.
+ [35 <./graphG.jpg>] <adjacencyMatricGraphG.jpg, id=431, 230.5413pt x 139.2402p
+t>
+File: adjacencyMatricGraphG.jpg Graphic file (type jpg)
+
+<use adjacencyMatricGraphG.jpg>
+Package pdftex.def Info: adjacencyMatricGraphG.jpg used on input line 971.
+(pdftex.def)             Requested size: 230.54074pt x 139.23985pt.
+ [36 <./graphG_.jpg> <./adjacencyMatricGraphG.jpg>] <graphC.jpg, id=440, 140.92
+65pt x 94.1919pt>
+File: graphC.jpg Graphic file (type jpg)
+ <use graphC.jpg>
+Package pdftex.def Info: graphC.jpg used on input line 980.
+(pdftex.def)             Requested size: 140.92615pt x 94.19165pt.
+
+<graphGtree.jpg, id=442, 123.3408pt x 127.677pt>
+File: graphGtree.jpg Graphic file (type jpg)
+ <use graphGtree.jpg>
+Package pdftex.def Info: graphGtree.jpg used on input line 991.
+(pdftex.def)             Requested size: 123.34048pt x 127.67668pt.
+ [37 <./graphC.jpg> <./graphGtree.jpg>] [38] [39] [40] [41]
+<exponentialNumberAreaCurve.jpg, id=468, 627.34375pt x 652.4375pt>
+File: exponentialNumberAreaCurve.jpg Graphic file (type jpg)
+
+<use exponentialNumberAreaCurve.jpg>
+Package pdftex.def Info: exponentialNumberAreaCurve.jpg used on input line 1078
+.
+(pdftex.def)             Requested size: 250.93304pt x 260.97037pt.
+ [42 <./exponentialNumberAreaCurve.jpg>]
+[43] [44] [45] [46] <finiteDiscontinuity.jpg, id=500, 78.0516pt x 50.8299pt>
+File: finiteDiscontinuity.jpg Graphic file (type jpg)
+
+<use finiteDiscontinuity.jpg>
+Package pdftex.def Info: finiteDiscontinuity.jpg used on input line 1206.
+(pdftex.def)             Requested size: 156.10281pt x 101.65952pt.
+
+<fourierSeriesTable.jpg, id=501, 807.015pt x 1003.75pt>
+File: fourierSeriesTable.jpg Graphic file (type jpg)
+
+<use fourierSeriesTable.jpg>
+Package pdftex.def Info: fourierSeriesTable.jpg used on input line 1218.
+(pdftex.def)             Requested size: 443.85962pt x 552.06421pt.
+ [47 <./finiteDiscontinuity.jpg>] [48 <./fourierSeriesTable.jpg>] <pithanotita1
+.jpg, id=512, 43.8438pt x 26.2581pt>
+File: pithanotita1.jpg Graphic file (type jpg)
+
+<use pithanotita1.jpg>
+Package pdftex.def Info: pithanotita1.jpg used on input line 1251.
+(pdftex.def)             Requested size: 87.68735pt x 52.51605pt.
+ [49 <./pithanotita1.jpg>] [50] [51] [52] [53] [54]
+[55] [56] [57] [58] [59] [60] [61] [62]
+<sizigiArmonika.jpg, id=575, 137.5539pt x 19.272pt>
+File: sizigiArmonika.jpg Graphic file (type jpg)
+ <use sizigiArmonika.jpg>
+Package pdftex.def Info: sizigiArmonika.jpg used on input line 1597.
+(pdftex.def)             Requested size: 275.10709pt x 38.54388pt.
+
+<trigono.jpg, id=577, 101.9007pt x 76.8471pt>
+File: trigono.jpg Graphic file (type jpg)
+ <use trigono.jpg>
+Package pdftex.def Info: trigono.jpg used on input line 1618.
+(pdftex.def)             Requested size: 203.80087pt x 153.69382pt.
+ [63 <./sizigiArmonika.jpg>] <orthTrigono.jpg, id=584, 139.4811pt x 75.4017pt>
+File: orthTrigono.jpg Graphic file (type jpg)
+
+<use orthTrigono.jpg>
+Package pdftex.def Info: orthTrigono.jpg used on input line 1639.
+(pdftex.def)             Requested size: 278.96149pt x 150.80301pt.
+ [64 <./trigono.jpg>]
+<kirtoTetrapleuro.jpg, id=590, 92.0238pt x 57.0933pt>
+File: kirtoTetrapleuro.jpg Graphic file (type jpg)
+
+<use kirtoTetrapleuro.jpg>
+Package pdftex.def Info: kirtoTetrapleuro.jpg used on input line 1659.
+(pdftex.def)             Requested size: 184.04715pt x 114.18631pt.
+ <plagioParal.jpg, id=592, 110.5731pt x 46.9755pt>
+File: plagioParal.jpg Graphic file (type jpg)
+
+<use plagioParal.jpg>
+Package pdftex.def Info: plagioParal.jpg used on input line 1676.
+(pdftex.def)             Requested size: 221.14563pt x 93.95074pt.
+ [65 <./orthTrigono.jpg> <./kirtoTetrapleuro.jpg>]
+<romvos.jpg, id=599, 54.2025pt x 45.0483pt>
+File: romvos.jpg Graphic file (type jpg)
+ <use romvos.jpg>
+Package pdftex.def Info: romvos.jpg used on input line 1687.
+(pdftex.def)             Requested size: 108.40472pt x 90.09634pt.
+
+<trapezio.jpg, id=600, 138.5175pt x 62.8749pt>
+File: trapezio.jpg Graphic file (type jpg)
+ <use trapezio.jpg>
+Package pdftex.def Info: trapezio.jpg used on input line 1699.
+(pdftex.def)             Requested size: 277.0343pt x 125.74945pt.
+
+<poligono.jpg, id=601, 66.7293pt x 56.1297pt>
+File: poligono.jpg Graphic file (type jpg)
+ <use poligono.jpg>
+Package pdftex.def Info: poligono.jpg used on input line 1711.
+(pdftex.def)             Requested size: 133.45825pt x 112.2591pt.
+ [66 <./plagioParal.jpg> <./romvos.jpg>] [67 <./trapezio.jpg> <./poligono.jpg>]
+
+<tetrahedron.jpg, id=620, 70.8246pt x 68.4156pt>
+File: tetrahedron.jpg Graphic file (type jpg)
+ <use tetrahedron.jpg>
+Package pdftex.def Info: tetrahedron.jpg used on input line 1741.
+(pdftex.def)             Requested size: 141.6488pt x 136.83084pt.
+
+<orthParallilepipedo.jpg, id=621, 66.2475pt x 62.634pt>
+File: orthParallilepipedo.jpg Graphic file (type jpg)
+
+<use orthParallilepipedo.jpg>
+Package pdftex.def Info: orthParallilepipedo.jpg used on input line 1752.
+(pdftex.def)             Requested size: 132.49466pt x 125.26767pt.
+ <pyramid.jpg, id=622, 60.7068pt x 62.1522pt>
+File: pyramid.jpg Graphic file (type jpg)
+
+<use pyramid.jpg>
+Package pdftex.def Info: pyramid.jpg used on input line 1764.
+(pdftex.def)             Requested size: 121.41327pt x 124.30408pt.
+ [68 <./tetrahedron.jpg> <./orthParallilepipedo.jpg>]
+<cone.jpg, id=629, 35.6532pt x 54.4434pt>
+File: cone.jpg Graphic file (type jpg)
+ <use cone.jpg>
+Package pdftex.def Info: cone.jpg used on input line 1781.
+(pdftex.def)             Requested size: 71.30618pt x 108.8865pt.
+
+<cylinder.jpg, id=630, 32.5215pt x 42.8802pt>
+File: cylinder.jpg Graphic file (type jpg)
+ <use cylinder.jpg>
+Package pdftex.def Info: cylinder.jpg used on input line 1793.
+(pdftex.def)             Requested size: 65.04282pt x 85.76016pt.
+ [69 <./pyramid.jpg> <./cone.jpg>] <coneFrustum.jpg, id=637, 40.2303pt x 26.258
+1pt>
+File: coneFrustum.jpg Graphic file (type jpg)
+
+<use coneFrustum.jpg>
+Package pdftex.def Info: coneFrustum.jpg used on input line 1816.
+(pdftex.def)             Requested size: 120.69058pt x 78.77408pt.
+ [70 <./cylinder.jpg> <./coneFrustum.jpg>] [71] [72]
+<toxo.jpg, id=653, 39.5076pt x 47.6982pt>
+File: toxo.jpg Graphic file (type jpg)
+ <use toxo.jpg>
+Package pdftex.def Info: toxo.jpg used on input line 1879.
+(pdftex.def)             Requested size: 79.01498pt x 95.39612pt.
+ [73 <./toxo.jpg>]
+[74] [75] [76] [77]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1978.
@@ -2230,22 +2039,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1978.
 
-[70]
+[78] <infiniteLimitxo.jpg, id=680, 432.61626pt x 279.0425pt>
+File: infiniteLimitxo.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `infiniteLimitxo' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2023 ...ludegraphics[scale=0.4]{infiniteLimitxo}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[71] [72] [73] [74] [75] [76] [77] [78] [79]
+<use infiniteLimitxo.jpg>
+Package pdftex.def Info: infiniteLimitxo.jpg used on input line 2023.
+(pdftex.def)             Requested size: 173.04343pt x 111.615pt.
+ [79 <./infiniteLimitxo.jpg>] [80] [81] [82] [83]
+[84] [85] [86] [87]
 
 LaTeX Warning: Command \: invalid in math mode on input line 2281.
 
@@ -2259,397 +2060,200 @@ LaTeX Font Warning: Font shape `T3/lmr/m/n' undefined
 
 LaTeX Warning: Command \: invalid in math mode on input line 2281.
 
-[80] [81] [82] [83]
+[88] [89] [90] [91] <intDividedPath.jpg, id=763, 602.25pt x 354.32375pt>
+File: intDividedPath.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `intDividedPath' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2361 ...cludegraphics[scale=0.4]{intDividedPath}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[84]
+<use intDividedPath.jpg>
+Package pdftex.def Info: intDividedPath.jpg used on input line 2361.
+(pdftex.def)             Requested size: 240.89572pt x 141.72697pt.
+ [92 <./intDividedPath.jpg>]
 
 LaTeX Warning: Command \: invalid in math mode on input line 2383.
 
 
 LaTeX Warning: Command \: invalid in math mode on input line 2383.
 
-[85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97]
-
-! LaTeX Error: File `argandDiagram' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2703 	\includegraphics[scale=2]{argandDiagram}
-                                                
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[98] [99]
-
-! LaTeX Error: File `complex_arctan' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2782 ...cludegraphics[scale=2.5]{complex_arctan}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[100]
-
-! LaTeX Error: File `complexAnalysisRealDerivative' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2824 ...cale=0.4]{complexAnalysisRealDerivative}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[101] [102] [103] [104] [105] [106] [107] [108] [109]
-
-! LaTeX Error: File `computationalMolecule' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3060 ...aphics[scale=0.3]{computationalMolecule}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[110] [111] [112]
-
-! LaTeX Error: File `vectorProjection' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3147 ...cludegraphics[scale=2]{vectorProjection}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[113]
-
-! LaTeX Error: File `unitTangentVector' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3217 ...ludegraphics[scale=2]{unitTangentVector}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[114] [115] [116]
-
-! LaTeX Error: File `surfaceConvention' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3308 ...degraphics[scale=2.5]{surfaceConvention}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[117] [118] [119] [120] [121]
-
-! LaTeX Error: File `matrixTransform' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3529 	\includegraphics[scale=2]{matrixTransform}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[122] [123]
-
-! LaTeX Error: File `2dPolarCoordinateSystem' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3575 ...hics[scale=0.6]{2dPolarCoordinateSystem}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `3dcartesianCoordinateSystem' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3587 ...[scale=0.8]{3dcartesianCoordinateSystem}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `cylindricalCoordinateSystem' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3599 ...[scale=0.8]{cylindricalCoordinateSystem}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `sphericalCoordinateSystem' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3611 ...cs[scale=0.8]{sphericalCoordinateSystem}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `polarElementOfArea' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3622 ...egraphics[scale=0.8]{polarElementOfArea}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[124]
-
-! LaTeX Error: File `cartesianMomentOfVolume' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3633 ...aphics[scale=2]{cartesianMomentOfVolume}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `cylindricalMomentOfVolume' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3642 ...cs[scale=0.6]{cylindricalMomentOfVolume}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `sphericalMomentOfVolume' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3651 ...hics[scale=0.6]{sphericalMomentOfVolume}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136]
-
-! LaTeX Error: File `triangleFunction' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3983 ...udegraphics[scale=0.4]{triangleFunction}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[137] [138] [139] [140] [141] [142] [143] [144] [145] [146]
-
-! LaTeX Error: File `rightHand' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4193 	\includegraphics[scale=1.6]{rightHand}
-                                              
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[147]
-
-! LaTeX Error: File `selofan' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4237 	\includegraphics[scale=2]{selofan}
-                                          
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[148]
-
-! LaTeX Error: File `snell' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4253 	\includegraphics[scale=2]{snell}
-                                        
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[149] [150] [151] [152] [153] [154] [155] [156] [157] [158]
-
-! LaTeX Error: File `citricAcid' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4541 	\includegraphics[scale=1]{citricAcid}
-                                             
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `lacticAcid' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4558 	\includegraphics[scale=1]{lacticAcid}
-                                             
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[159]
-
-! LaTeX Error: File `cooh' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4567 	\includegraphics[scale=1.4]{cooh}
-                                         
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `tartaricAcid' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4576 	\includegraphics[scale=1.4]{tartaricAcid}
-                                                 
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `pirostafilikoOxi' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4587 ...udegraphics[scale=1.4]{pirostafilikoOxi}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[160] [161]
+[93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
+<argandDiagram.jpg, id=847, 103.8279pt x 75.6426pt>
+File: argandDiagram.jpg Graphic file (type jpg)
+ <use argandDiagram.jpg>
+Package pdftex.def Info: argandDiagram.jpg used on input line 2703.
+(pdftex.def)             Requested size: 207.65527pt x 151.28479pt.
+
+[107 <./argandDiagram.jpg>] [108]
+<complex_arctan.jpg, id=857, 65.5248pt x 42.1575pt>
+File: complex_arctan.jpg Graphic file (type jpg)
+ <use complex_arctan.jpg>
+Package pdftex.def Info: complex_arctan.jpg used on input line 2782.
+(pdftex.def)             Requested size: 163.81157pt x 105.39345pt.
+
+[109] [110 <./complex_arctan.jpg>]
+<complexAnalysisRealDerivative.jpg, id=868, 602.25pt x 423.5825pt>
+File: complexAnalysisRealDerivative.jpg Graphic file (type jpg)
+
+<use complexAnalysisRealDerivative.jpg>
+Package pdftex.def Info: complexAnalysisRealDerivative.jpg used on input line 2
+824.
+(pdftex.def)             Requested size: 240.89572pt x 169.43pt.
+ [111 <./complexAnalysisRealDerivative.jpg>] [112] [113] [114] [115] [116] [117
+] [118] [119]
+<computationalMolecule.jpg, id=924, 1037.8775pt x 760.8425pt>
+File: computationalMolecule.jpg Graphic file (type jpg)
+
+<use computationalMolecule.jpg>
+Package pdftex.def Info: computationalMolecule.jpg used on input line 3060.
+(pdftex.def)             Requested size: 311.36566pt x 228.2545pt.
+ [120 <./computationalMolecule.jpg>] [121]
+[122] <vectorProjection.jpg, id=947, 71.7882pt x 66.4884pt>
+File: vectorProjection.jpg Graphic file (type jpg)
+
+<use vectorProjection.jpg>
+Package pdftex.def Info: vectorProjection.jpg used on input line 3147.
+(pdftex.def)             Requested size: 143.57599pt x 132.97647pt.
+ [123 <./vectorProjection.jpg>]
+<unitTangentVector.jpg, id=954, 58.2978pt x 51.3117pt>
+File: unitTangentVector.jpg Graphic file (type jpg)
+
+<use unitTangentVector.jpg>
+Package pdftex.def Info: unitTangentVector.jpg used on input line 3217.
+(pdftex.def)             Requested size: 116.5953pt x 102.62314pt.
+ [124] [125 <./unitTangentVector.jpg>] [126]
+[127] <surfaceConvention.jpg, id=977, 34.6896pt x 36.135pt>
+File: surfaceConvention.jpg Graphic file (type jpg)
+
+<use surfaceConvention.jpg>
+Package pdftex.def Info: surfaceConvention.jpg used on input line 3308.
+(pdftex.def)             Requested size: 86.72379pt x 90.33722pt.
+ [128 <./surfaceConvention.jpg>] [129] [130]
+[131] [132] <matrixTransform.jpg, id=1011, 116.8365pt x 84.5559pt>
+File: matrixTransform.jpg Graphic file (type jpg)
+
+<use matrixTransform.jpg>
+Package pdftex.def Info: matrixTransform.jpg used on input line 3529.
+(pdftex.def)             Requested size: 233.67242pt x 169.11133pt.
+ [133 <./matrixTransform.jpg>] [134]
+<2dPolarCoordinateSystem.jpg, id=1026, 401.5pt x 283.0575pt>
+File: 2dPolarCoordinateSystem.jpg Graphic file (type jpg)
+
+<use 2dPolarCoordinateSystem.jpg>
+Package pdftex.def Info: 2dPolarCoordinateSystem.jpg used on input line 3575.
+(pdftex.def)             Requested size: 240.90184pt x 169.8358pt.
+
+<3dcartesianCoordinateSystem.jpg, id=1028, 401.5pt x 224.84pt>
+File: 3dcartesianCoordinateSystem.jpg Graphic file (type jpg)
+
+<use 3dcartesianCoordinateSystem.jpg>
+Package pdftex.def Info: 3dcartesianCoordinateSystem.jpg used on input line 358
+7.
+(pdftex.def)             Requested size: 321.20042pt x 179.87224pt.
+ [135 <./2dPolarCoordinateSystem.jpg>]
+<cylindricalCoordinateSystem.jpg, id=1036, 401.5pt x 255.95625pt>
+File: cylindricalCoordinateSystem.jpg Graphic file (type jpg)
+
+<use cylindricalCoordinateSystem.jpg>
+Package pdftex.def Info: cylindricalCoordinateSystem.jpg used on input line 359
+9.
+(pdftex.def)             Requested size: 321.20042pt x 204.76526pt.
+
+<sphericalCoordinateSystem.jpg, id=1038, 401.5pt x 256.96pt>
+File: sphericalCoordinateSystem.jpg Graphic file (type jpg)
+
+<use sphericalCoordinateSystem.jpg>
+Package pdftex.def Info: sphericalCoordinateSystem.jpg used on input line 3611.
+
+(pdftex.def)             Requested size: 321.20042pt x 205.56827pt.
+ [136 <./3dcartesianCoordinateSystem.jpg> <./cylindricalCoordinateSystem.jpg>]
+<polarElementOfArea.jpg, id=1046, 401.5pt x 239.89626pt>
+File: polarElementOfArea.jpg Graphic file (type jpg)
+
+<use polarElementOfArea.jpg>
+Package pdftex.def Info: polarElementOfArea.jpg used on input line 3622.
+(pdftex.def)             Requested size: 321.20042pt x 191.91725pt.
+
+<cartesianMomentOfVolume.jpg, id=1048, 93.2283pt x 44.8074pt>
+File: cartesianMomentOfVolume.jpg Graphic file (type jpg)
+
+<use cartesianMomentOfVolume.jpg>
+Package pdftex.def Info: cartesianMomentOfVolume.jpg used on input line 3633.
+(pdftex.def)             Requested size: 186.45615pt x 89.61456pt.
+ [137 <./sphericalCoordinateSystem.jpg> <./polarElementOfArea.jpg>]
+<cylindricalMomentOfVolume.jpg, id=1056, 501.875pt x 216.81pt>
+File: cylindricalMomentOfVolume.jpg Graphic file (type jpg)
+
+<use cylindricalMomentOfVolume.jpg>
+Package pdftex.def Info: cylindricalMomentOfVolume.jpg used on input line 3642.
+
+(pdftex.def)             Requested size: 301.12732pt x 130.08699pt.
+
+<sphericalMomentOfVolume.jpg, id=1058, 401.5pt x 290.08376pt>
+File: sphericalMomentOfVolume.jpg Graphic file (type jpg)
+
+<use sphericalMomentOfVolume.jpg>
+Package pdftex.def Info: sphericalMomentOfVolume.jpg used on input line 3651.
+(pdftex.def)             Requested size: 240.90184pt x 174.05159pt.
+ [138 <./cartesianMomentOfVolume.jpg> <./cylindricalMomentOfVolume.jpg> <./sphe
+ricalMomentOfVolume.jpg>] [139] [140] [141]
+[142] [143] [144] [145] [146] [147] [148] [149]
+<triangleFunction.jpg, id=1158, 602.25pt x 245.91875pt>
+File: triangleFunction.jpg Graphic file (type jpg)
+
+<use triangleFunction.jpg>
+Package pdftex.def Info: triangleFunction.jpg used on input line 3983.
+(pdftex.def)             Requested size: 240.89572pt x 98.36575pt.
+ [150 <./triangleFunction.jpg>] [151] [152] [153]
+[154] [155] [156] [157] [158] [159]
+<rightHand.jpg, id=1206, 34.4487pt x 25.0536pt>
+File: rightHand.jpg Graphic file (type jpg)
+ <use rightHand.jpg>
+Package pdftex.def Info: rightHand.jpg used on input line 4193.
+(pdftex.def)             Requested size: 55.11798pt x 40.08578pt.
+ [160 <./rightHand.jpg>] <selofan.jpg, id=1213, 45.771pt x 53.4798pt>
+File: selofan.jpg Graphic file (type jpg)
+ <use selofan.jpg>
+Package pdftex.def Info: selofan.jpg used on input line 4237.
+(pdftex.def)             Requested size: 91.54175pt x 106.95932pt.
+
+[161] <snell.jpg, id=1223, 53.9616pt x 49.1436pt>
+File: snell.jpg Graphic file (type jpg)
+ <use snell.jpg>
+Package pdftex.def Info: snell.jpg used on input line 4253.
+(pdftex.def)             Requested size: 107.92291pt x 98.28693pt.
+ [162 <./selofan.jpg> <./snell.jpg>] [163] [164] [165] [166] [167] [168] [169] 
+[170] [171]
+[172] <citricAcid.jpg, id=1279, 94.1919pt x 75.4017pt>
+File: citricAcid.jpg Graphic file (type jpg)
+ <use citricAcid.jpg>
+Package pdftex.def Info: citricAcid.jpg used on input line 4541.
+(pdftex.def)             Requested size: 94.19165pt x 75.4015pt.
+
+[173 <./citricAcid.jpg>] <lacticAcid.jpg, id=1286, 313.8927pt x 45.5301pt>
+File: lacticAcid.jpg Graphic file (type jpg)
+
+<use lacticAcid.jpg>
+Package pdftex.def Info: lacticAcid.jpg used on input line 4558.
+(pdftex.def)             Requested size: 313.89192pt x 45.52998pt.
+ <cooh.jpg, id=1287, 58.2978pt x 32.7624pt>
+File: cooh.jpg Graphic file (type jpg)
+ <use cooh.jpg>
+Package pdftex.def Info: cooh.jpg used on input line 4567.
+(pdftex.def)             Requested size: 81.61635pt x 45.86703pt.
+
+<tartaricAcid.jpg, id=1289, 48.9027pt x 48.6618pt>
+File: tartaricAcid.jpg Graphic file (type jpg)
+ <use tartaricAcid.jpg>
+Package pdftex.def Info: tartaricAcid.jpg used on input line 4576.
+(pdftex.def)             Requested size: 68.46327pt x 68.12602pt.
+
+<pirostafilikoOxi.jpg, id=1291, 159.7167pt x 38.544pt>
+File: pirostafilikoOxi.jpg Graphic file (type jpg)
+
+<use pirostafilikoOxi.jpg>
+Package pdftex.def Info: pirostafilikoOxi.jpg used on input line 4587.
+(pdftex.def)             Requested size: 223.60185pt x 53.96121pt.
+ [174 <./lacticAcid.jpg> <./cooh.jpg> <./tartaricAcid.jpg> <./pirostafilikoOxi.
+jpg>] [175]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4643.
- [162] [163]
+ [176]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 4643.
  ("Math Handbook.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4643.
@@ -2664,13 +2268,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4643.
  ) 
 Here is how much of TeX's memory you used:
- 14643 strings out of 493366
- 216876 string characters out of 3137303
- 313826 words of memory out of 3000000
- 17252 multiletter control sequences out of 15000+200000
+ 14849 strings out of 493366
+ 221803 string characters out of 3137303
+ 311829 words of memory out of 3000000
+ 17456 multiletter control sequences out of 15000+200000
  91487 words of font info for 135 fonts, out of 3000000 for 9000
  1127 hyphenation exceptions out of 8191
- 40i,15n,40p,1306b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,15n,40p,1306b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Nikos\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\mathabx\dpi6
 57\mathx10.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}
  <C:\Users\Nikos\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cbgreek\dpi657
@@ -2707,9 +2311,9 @@ m Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files (x86)
 /fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "Math Handbook.pdf" (163 pages, 1031578 bytes).
+Output written on "Math Handbook.pdf" (176 pages, 2176203 bytes).
 PDF statistics:
- 2086 PDF objects out of 2487 (max. 8388607)
- 524 named destinations out of 1000 (max. 500000)
- 801 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2193 PDF objects out of 2487 (max. 8388607)
+ 537 named destinations out of 1000 (max. 500000)
+ 1056 words of extra memory for PDF output out of 10000 (max. 10000000)
 

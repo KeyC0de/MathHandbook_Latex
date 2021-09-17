@@ -21,81 +21,81 @@
 \contentsline {section}{\numberline {8}Functions}{30}{section.8}
 \contentsline {subsection}{\numberline {8.1}Even and Odd functions}{33}{subsection.8.1}
 \contentsline {section}{\numberline {9}Graph Theory}{35}{section.9}
-\contentsline {section}{\numberline {10}Discrete Math}{37}{section.10}
-\contentsline {subsection}{\numberline {10.1}Asymptotic Notations and Growth of Functions}{38}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}Sequences and Series}{38}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}Fourier Series}{44}{subsection.10.3}
-\contentsline {section}{\numberline {11}Probability Theory}{46}{section.11}
-\contentsline {subsection}{\numberline {11.1}Combinatorics}{48}{subsection.11.1}
-\contentsline {subsection}{\numberline {11.2}Probability Distributions}{50}{subsection.11.2}
-\contentsline {subsection}{\numberline {11.3}Stochastic Processes}{52}{subsection.11.3}
-\contentsline {section}{\numberline {12}Statistics}{53}{section.12}
-\contentsline {section}{\numberline {13}Number Theory}{56}{section.13}
-\contentsline {subsection}{\numberline {13.1}Division Properties}{56}{subsection.13.1}
-\contentsline {section}{\numberline {14}Geometry}{60}{section.14}
-\contentsline {subsection}{\numberline {14.1}Line Segment}{60}{subsection.14.1}
-\contentsline {subsection}{\numberline {14.2}Triangle}{60}{subsection.14.2}
-\contentsline {subsection}{\numberline {14.3}Quadrilateral}{61}{subsection.14.3}
-\contentsline {subsection}{\numberline {14.4}Regular Polygon}{62}{subsection.14.4}
-\contentsline {subsection}{\numberline {14.5}Stereometry - Polyhedron}{63}{subsection.14.5}
-\contentsline {subsection}{\numberline {14.6}Line}{64}{subsection.14.6}
-\contentsline {subsection}{\numberline {14.7}Miscellaneous}{65}{subsection.14.7}
-\contentsline {section}{\numberline {15}Conic Sections}{66}{section.15}
-\contentsline {subsection}{\numberline {15.1}Circle}{66}{subsection.15.1}
-\contentsline {subsection}{\numberline {15.2}Parabola}{67}{subsection.15.2}
-\contentsline {subsection}{\numberline {15.3}Ellipse}{67}{subsection.15.3}
-\contentsline {subsection}{\numberline {15.4}Hyperbola}{68}{subsection.15.4}
-\contentsline {section}{\numberline {16}Calculus / Mathematical Analysis}{69}{section.16}
-\contentsline {subsection}{\numberline {16.1}Limits}{69}{subsection.16.1}
-\contentsline {subsection}{\numberline {16.2}Calculations with 0 and $\qopname \relax m{inf}$}{70}{subsection.16.2}
-\contentsline {subsection}{\numberline {16.3}Differential Calculus}{70}{subsection.16.3}
-\contentsline {subsubsection}{\numberline {16.3.1}Derivatives}{75}{subsubsection.16.3.1}
-\contentsline {subsubsection}{\numberline {16.3.2}Numerical solutions to Derivatives}{76}{subsubsection.16.3.2}
-\contentsline {subsubsection}{\numberline {16.3.3}Partial Differentiation}{77}{subsubsection.16.3.3}
-\contentsline {subsection}{\numberline {16.4}Integral Calculus}{78}{subsection.16.4}
-\contentsline {subsubsection}{\numberline {16.4.1}Properties of Integrals}{86}{subsubsection.16.4.1}
-\contentsline {subsubsection}{\numberline {16.4.2}Integrals}{87}{subsubsection.16.4.2}
-\contentsline {subsubsection}{\numberline {16.4.3}Reduction Formulae}{90}{subsubsection.16.4.3}
-\contentsline {section}{\numberline {17}Differential Equations}{92}{section.17}
-\contentsline {subsection}{\numberline {17.1}Ordinary Differential Equations (ODEs)}{92}{subsection.17.1}
-\contentsline {subsubsection}{\numberline {17.1.1}Analytical Solutions to ODEs}{92}{subsubsection.17.1.1}
-\contentsline {subsubsection}{\numberline {17.1.2}Systems of Differential Equations}{94}{subsubsection.17.1.2}
-\contentsline {subsection}{\numberline {17.2}Partial Differential Equations (PDEs)}{95}{subsection.17.2}
-\contentsline {section}{\numberline {18}Difference Equations}{97}{section.18}
-\contentsline {section}{\numberline {19}Complex Numbers}{98}{section.19}
-\contentsline {subsection}{\numberline {19.1}Complex Trigonometric \& Hyperbolic Identities}{99}{subsection.19.1}
-\contentsline {subsection}{\numberline {19.2}Complex Analysis}{101}{subsection.19.2}
-\contentsline {subsection}{\numberline {19.3}Quaternions}{105}{subsection.19.3}
-\contentsline {section}{\numberline {20}Numerical Analysis}{106}{section.20}
-\contentsline {subsubsection}{\numberline {20.0.1}Numerical Solutions to ODEs}{108}{subsubsection.20.0.1}
-\contentsline {subsubsection}{\numberline {20.0.2}Numerical Solutions to PDEs}{109}{subsubsection.20.0.2}
-\contentsline {section}{\numberline {21}Vectors}{112}{section.21}
-\contentsline {subsection}{\numberline {21.1}Vector Analysis}{115}{subsection.21.1}
-\contentsline {section}{\numberline {22}Determinants}{118}{section.22}
-\contentsline {section}{\numberline {23}Matrices}{120}{section.23}
-\contentsline {section}{\numberline {24}Coordinate Systems}{124}{section.24}
-\contentsline {subsection}{\numberline {24.1}2-D Coordinate Systems}{124}{subsection.24.1}
-\contentsline {subsection}{\numberline {24.2}3-D Coordinate Systems}{124}{subsection.24.2}
-\contentsline {subsection}{\numberline {24.3}Moment of Area}{125}{subsection.24.3}
-\contentsline {subsection}{\numberline {24.4}Element of Volume}{125}{subsection.24.4}
-\contentsline {subsection}{\numberline {24.5}Element of Area in Space}{125}{subsection.24.5}
-\contentsline {subsection}{\numberline {24.6}Curvilinear Coordinates}{125}{subsection.24.6}
-\contentsline {section}{\numberline {25}Transforms}{128}{section.25}
-\contentsline {subsection}{\numberline {25.1}Laplace Transforms}{128}{subsection.25.1}
-\contentsline {subsubsection}{\numberline {25.1.1}Convolution}{130}{subsubsection.25.1.1}
-\contentsline {subsection}{\numberline {25.2}Z Transform}{131}{subsection.25.2}
-\contentsline {subsubsection}{\numberline {25.2.1}Sampling}{132}{subsubsection.25.2.1}
-\contentsline {subsection}{\numberline {25.3}Fourier Transform}{132}{subsection.25.3}
-\contentsline {section}{\numberline {26}Special Functions}{135}{section.26}
-\contentsline {section}{\numberline {27}Abstract Algebra}{142}{section.27}
-\contentsline {section}{\numberline {28}Recreational}{143}{section.28}
-\contentsline {section}{\numberline {29}Physics}{144}{section.29}
-\contentsline {subsection}{\numberline {29.1}Classic Mechanics}{144}{subsection.29.1}
-\contentsline {subsection}{\numberline {29.2}Electrostatic Field}{149}{subsection.29.2}
-\contentsline {subsection}{\numberline {29.3}Thermodynamics}{152}{subsection.29.3}
-\contentsline {subsection}{\numberline {29.4}Electric Field}{155}{subsection.29.4}
-\contentsline {subsection}{\numberline {29.5}Magnetic Field}{156}{subsection.29.5}
-\contentsline {subsection}{\numberline {29.6}Fundamental Constants}{157}{subsection.29.6}
-\contentsline {section}{\numberline {30}Chemistry}{158}{section.30}
-\contentsline {subsection}{\numberline {30.1}Useful Chemical Substances}{159}{subsection.30.1}
-\contentsline {section}{\numberline {31}Economics}{161}{section.31}
+\contentsline {section}{\numberline {10}Discrete Math}{39}{section.10}
+\contentsline {subsection}{\numberline {10.1}Asymptotic Notations and Growth of Functions}{40}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Sequences and Series}{40}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Fourier Series}{46}{subsection.10.3}
+\contentsline {section}{\numberline {11}Probability Theory}{49}{section.11}
+\contentsline {subsection}{\numberline {11.1}Combinatorics}{51}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Probability Distributions}{53}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Stochastic Processes}{55}{subsection.11.3}
+\contentsline {section}{\numberline {12}Statistics}{56}{section.12}
+\contentsline {section}{\numberline {13}Number Theory}{59}{section.13}
+\contentsline {subsection}{\numberline {13.1}Division Properties}{59}{subsection.13.1}
+\contentsline {section}{\numberline {14}Geometry}{63}{section.14}
+\contentsline {subsection}{\numberline {14.1}Line Segment}{63}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Triangle}{64}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}Quadrilateral}{65}{subsection.14.3}
+\contentsline {subsection}{\numberline {14.4}Regular Polygon}{66}{subsection.14.4}
+\contentsline {subsection}{\numberline {14.5}Stereometry - Polyhedron}{68}{subsection.14.5}
+\contentsline {subsection}{\numberline {14.6}Line}{71}{subsection.14.6}
+\contentsline {subsection}{\numberline {14.7}Miscellaneous}{71}{subsection.14.7}
+\contentsline {section}{\numberline {15}Conic Sections}{73}{section.15}
+\contentsline {subsection}{\numberline {15.1}Circle}{73}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Parabola}{74}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.3}Ellipse}{74}{subsection.15.3}
+\contentsline {subsection}{\numberline {15.4}Hyperbola}{75}{subsection.15.4}
+\contentsline {section}{\numberline {16}Calculus / Mathematical Analysis}{77}{section.16}
+\contentsline {subsection}{\numberline {16.1}Limits}{77}{subsection.16.1}
+\contentsline {subsection}{\numberline {16.2}Calculations with 0 and $\qopname \relax m{inf}$}{78}{subsection.16.2}
+\contentsline {subsection}{\numberline {16.3}Differential Calculus}{78}{subsection.16.3}
+\contentsline {subsubsection}{\numberline {16.3.1}Derivatives}{83}{subsubsection.16.3.1}
+\contentsline {subsubsection}{\numberline {16.3.2}Numerical solutions to Derivatives}{84}{subsubsection.16.3.2}
+\contentsline {subsubsection}{\numberline {16.3.3}Partial Differentiation}{85}{subsubsection.16.3.3}
+\contentsline {subsection}{\numberline {16.4}Integral Calculus}{87}{subsection.16.4}
+\contentsline {subsubsection}{\numberline {16.4.1}Properties of Integrals}{94}{subsubsection.16.4.1}
+\contentsline {subsubsection}{\numberline {16.4.2}Integrals}{95}{subsubsection.16.4.2}
+\contentsline {subsubsection}{\numberline {16.4.3}Reduction Formulae}{99}{subsubsection.16.4.3}
+\contentsline {section}{\numberline {17}Differential Equations}{101}{section.17}
+\contentsline {subsection}{\numberline {17.1}Ordinary Differential Equations (ODEs)}{101}{subsection.17.1}
+\contentsline {subsubsection}{\numberline {17.1.1}Analytical Solutions to ODEs}{101}{subsubsection.17.1.1}
+\contentsline {subsubsection}{\numberline {17.1.2}Systems of Differential Equations}{103}{subsubsection.17.1.2}
+\contentsline {subsection}{\numberline {17.2}Partial Differential Equations (PDEs)}{104}{subsection.17.2}
+\contentsline {section}{\numberline {18}Difference Equations}{106}{section.18}
+\contentsline {section}{\numberline {19}Complex Numbers}{107}{section.19}
+\contentsline {subsection}{\numberline {19.1}Complex Trigonometric \& Hyperbolic Identities}{109}{subsection.19.1}
+\contentsline {subsection}{\numberline {19.2}Complex Analysis}{111}{subsection.19.2}
+\contentsline {subsection}{\numberline {19.3}Quaternions}{115}{subsection.19.3}
+\contentsline {section}{\numberline {20}Numerical Analysis}{116}{section.20}
+\contentsline {subsubsection}{\numberline {20.0.1}Numerical Solutions to ODEs}{118}{subsubsection.20.0.1}
+\contentsline {subsubsection}{\numberline {20.0.2}Numerical Solutions to PDEs}{119}{subsubsection.20.0.2}
+\contentsline {section}{\numberline {21}Vectors}{122}{section.21}
+\contentsline {subsection}{\numberline {21.1}Vector Analysis}{125}{subsection.21.1}
+\contentsline {section}{\numberline {22}Determinants}{129}{section.22}
+\contentsline {section}{\numberline {23}Matrices}{131}{section.23}
+\contentsline {section}{\numberline {24}Coordinate Systems}{135}{section.24}
+\contentsline {subsection}{\numberline {24.1}2-D Coordinate Systems}{135}{subsection.24.1}
+\contentsline {subsection}{\numberline {24.2}3-D Coordinate Systems}{135}{subsection.24.2}
+\contentsline {subsection}{\numberline {24.3}Moment of Area}{137}{subsection.24.3}
+\contentsline {subsection}{\numberline {24.4}Element of Volume}{137}{subsection.24.4}
+\contentsline {subsection}{\numberline {24.5}Element of Area in Space}{139}{subsection.24.5}
+\contentsline {subsection}{\numberline {24.6}Curvilinear Coordinates}{139}{subsection.24.6}
+\contentsline {section}{\numberline {25}Transforms}{141}{section.25}
+\contentsline {subsection}{\numberline {25.1}Laplace Transforms}{141}{subsection.25.1}
+\contentsline {subsubsection}{\numberline {25.1.1}Convolution}{143}{subsubsection.25.1.1}
+\contentsline {subsection}{\numberline {25.2}Z Transform}{144}{subsection.25.2}
+\contentsline {subsubsection}{\numberline {25.2.1}Sampling}{145}{subsubsection.25.2.1}
+\contentsline {subsection}{\numberline {25.3}Fourier Transform}{145}{subsection.25.3}
+\contentsline {section}{\numberline {26}Special Functions}{148}{section.26}
+\contentsline {section}{\numberline {27}Abstract Algebra}{155}{section.27}
+\contentsline {section}{\numberline {28}Recreational}{156}{section.28}
+\contentsline {section}{\numberline {29}Physics}{157}{section.29}
+\contentsline {subsection}{\numberline {29.1}Classic Mechanics}{157}{subsection.29.1}
+\contentsline {subsection}{\numberline {29.2}Electrostatic Field}{163}{subsection.29.2}
+\contentsline {subsection}{\numberline {29.3}Thermodynamics}{166}{subsection.29.3}
+\contentsline {subsection}{\numberline {29.4}Electric Field}{169}{subsection.29.4}
+\contentsline {subsection}{\numberline {29.5}Magnetic Field}{170}{subsection.29.5}
+\contentsline {subsection}{\numberline {29.6}Fundamental Constants}{170}{subsection.29.6}
+\contentsline {section}{\numberline {30}Chemistry}{172}{section.30}
+\contentsline {subsection}{\numberline {30.1}Useful Chemical Substances}{173}{subsection.30.1}
+\contentsline {section}{\numberline {31}Economics}{175}{section.31}
